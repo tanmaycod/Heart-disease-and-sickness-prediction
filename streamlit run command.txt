@@ -1,0 +1,1 @@
+streamlit run "D:\disease prediction\Heart disease and sickness prediction\prediction.py"
